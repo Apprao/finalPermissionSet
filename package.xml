@@ -13,7 +13,11 @@
         <name>PermissionSet</name>
     </types>
     <types>
+        <members>newFolder</members>
+        <members>newFolder2</members>
         <members>newFolder2/TestReport2</members>
+        <members>newFolder3</members>
+        <members>newFolder3/TestReport</members>
         <members>newFolder3/TestReport2</members>
         <name>Report</name>
     </types>
