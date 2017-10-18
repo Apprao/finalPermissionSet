@@ -24,6 +24,7 @@
         <members>newFolder3</members>
         <members>newFolder3/TestReport</members>
         <members>newFolder3/TestReport2</members>
+        <members>newFolder5/TestReport2</members>
         <name>Report</name>
     </types>
 </Package>
